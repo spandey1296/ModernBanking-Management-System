@@ -1,0 +1,8 @@
+"100001", "Howard, J", "Saving", 2.5, 5000
+"100002", "Brown, C", "Cheque", 2.5, 6400
+"100003", "Smith, W", "Saving", 1.5, 400
+"100004", "Frank, N", "Saving", 2.5, 1000
+"100005", "Munch, R", "Cheque", 2.75, 6200
+"100006", "Sidney, M", "Saving", 3.5, 12800
+"100007", "Gao, F", "Saving", 2.0, 5000
+"100008", "Long, P", "Cheque", 3.0, 7300
