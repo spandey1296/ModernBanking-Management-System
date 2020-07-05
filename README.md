@@ -25,6 +25,42 @@ CERTIFICATION FOR PROJECT SUBMISSION.
 
 
 
+
+
+
+
+
+
+Kotlin Bootcamp for Programmers links: https://developer.android.com/courses/kotlin-bootcamp/overview?utm_source=week1&utm_medium=email&utm_campaign=30DaysOfKotlin&utm_term=Basic%22
+
+
+Kotlin Webinars: 
+1. https://eventsonair.withgoogle.com/events/kotlin?talk=kotlin101
+
+2. https://eventsonair.withgoogle.com/events/kotlin?talk=decodingkotlin
+
+3. https://eventsonair.withgoogle.com/events/kotlin?talk=live-coding
+
+
+
+
+Get Started with Kotlin on Android:
+link: https://developer.android.com/kotlin/get-started
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 For any queries/doubts: shivant47@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/shivant-kumar-pandey-6469a1164/
