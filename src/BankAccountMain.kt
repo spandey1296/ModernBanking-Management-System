@@ -1,3 +1,4 @@
+import resources.Wealthmanage
 import java.io.BufferedReader
 import java.io.InputStreamReader
 
@@ -49,6 +50,17 @@ fun main(args: Array<String>)
             accopen.openaccount()
 
         }
+        else if(choice ==119){
+
+            Wealthmanage.WeathManagement()
+
+
+
+
+        }
+
+
+
 
         else if(choice == 84) {
             break

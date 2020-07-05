@@ -13,6 +13,9 @@ class AccountSection(){
               println("\t • (K)now Simple Interest for Saving Account")
               println("\t • (A)bout Us and Contact Details")
               println("\t • (I)nternate Banking Facility")
+              println("\t • (W)eath Management Facility")
+
+
               println("\t • (T)erminate")
 
 
