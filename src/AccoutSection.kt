@@ -9,7 +9,7 @@ class AccoutSection:BankInterface {
             println("Press 1: \t • Calculate Loan Interest Compound")
             println("Press 2: \t • Opening New Account")
 
-            var ota = Integer.valueOf(readLine())
+            val ota = Integer.valueOf(readLine())
 
             println("Select Option---> ")
 
@@ -30,19 +30,16 @@ class AccoutSection:BankInterface {
                 val time = scanner.nextDouble()
 
                 //Calculate Compound Interest
-                val compoundInterest = principalAmount.toDouble() * Math.pow((1 + rateOfInterest.toDouble() / 100.00), time.toDouble())
+                val compoundInterest = principalAmount.toDouble() * Math.pow((1 + rateOfInterest / 100.00), time.toDouble())
 
                 //Print Compound Interest
-                println("Compound Interest is as your input ${principalAmount}and ${rateOfInterest} and ${time} is: :$compoundInterest")
+                println("Compound Interest is as your input ${principalAmount}and ${rateOfInterest} and $time is: :$compoundInterest")
             }
 
         }
 
     }
 
-            override fun openaccount() {
-           super.openaccount()
-    }
 }
 
 

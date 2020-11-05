@@ -14,6 +14,7 @@ class AccountSection(){
               println("\t • (A)bout Us and Contact Details")
               println("\t • (I)nternate Banking Facility")
               println("\t • (W)eath Management Facility")
+              println("\t • (G)rievence Facility")
               println("\t • (T)erminate")
 
 

@@ -56,6 +56,10 @@ fun main(args: Array<String>)
         else if(choice == 84) {
             break
         }
+        else if (choice == 103 || choice == 71){
+            Atmcomplaint.atm_complaint()
+
+        }
 
 
 
