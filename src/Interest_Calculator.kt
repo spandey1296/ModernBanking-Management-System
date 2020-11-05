@@ -23,7 +23,7 @@ class Interest_Calculator {
 
 
             println("Simple interest for Your Amount ${p} and Rate ${r} and Year ${n} as your Required is: " + SI)
-            println("After Adding Your Interest Your Anout will be: " + total)
+            println("After Adding Your Interest Your Amout will be: $total")
 
 
         }

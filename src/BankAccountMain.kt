@@ -51,20 +51,19 @@ fun main(args: Array<String>)
 
         }
         else if(choice ==119){
-
             Wealthmanage.WeathManagement()
-
-
-
-
         }
-
-
-
-
         else if(choice == 84) {
             break
         }
+
+
+
+
+
+
+
+
     }
 
 }
