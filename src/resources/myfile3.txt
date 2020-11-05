@@ -1,1 +1,1 @@
-Today snow is falling.
+java.io.BufferedReader@421faab1
