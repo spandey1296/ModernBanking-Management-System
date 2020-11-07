@@ -26,7 +26,7 @@ fun printAccounts(bankAccounts: List<BankAccount>) {
 }
 
 fun readAccounts(): ArrayList<BankAccount> {
-    var bankAccounts = arrayListOf<BankAccount>()
+    val bankAccounts = arrayListOf<BankAccount>()
     val file = File("src/BankAccount.txt")
     val text = file.readText()
     text.split("\n").forEach {

@@ -38,7 +38,19 @@ class AccoutSection:BankInterface {
             }
 
 
+            else if (ota==2){
+                println("Welcome to Opening to the Modern Bank Account Opening")
 
+                val op= scanner.nextInt()
+
+                println("Enter Your Name")
+
+
+                println("Enter Your Contact Number")
+
+
+
+                println("Enter Your Address")
 
 
             }
