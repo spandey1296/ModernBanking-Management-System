@@ -15,9 +15,7 @@ class Atmcomplaint {
             val fileName = "src/resources/myfile3.txt"
 
             val myfile = File(fileName)
-            val content = BufferedReader(InputStreamReader(System.`in`))
 
-            myfile.writeText(content.toString())
 
             println("Compaint Registered Successfully!!")
 
