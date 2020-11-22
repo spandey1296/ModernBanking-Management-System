@@ -25,13 +25,13 @@ class Interest_Calculator {
                 val total = SI + p
 
 
-                println("Simple interest for Your Amount $p and Rate $r and Year $n as your Required is: " + SI)
-                println("After Adding Your Interest Your Amout will be: $total")
+                println("Simple interest for Your Amount $p and Rate $r and Year $n as your Required is: $SI")
+                println("After Adding Your Interest Your Amount will be: $total")
             }
             else if (ch == 2){
 
                 println("The current SI of the Bank is 10%  according to RBI rules of Interest")
-                println(" As per RBI rules of the guidelines, Inerest is not more than 0% of the corresponding banks")
+                println(" As per RBI rules of the guidelines, Interest is not more than 0% of the corresponding banks")
 
 
             }

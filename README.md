@@ -2,11 +2,11 @@
                       30 Days Of Kotlin with Google Developers Project Submission
 
 
-This application project is basically based on the latest Bank technology and I have considered almost features. 
+This application project is basically based on the latest Bank technology, and I have considered almost features. 
 
 The Project name is Modern Bank Corporation. I have used the Kotlin features like lambda expression, Interface, the Companion object, and SAM interface.
 
-
+ Now wealth Management system is now added in the project  as user can now check their wealth management system in this application.
 
 
 
