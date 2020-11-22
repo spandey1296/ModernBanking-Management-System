@@ -46,7 +46,7 @@ fun main(args: Array<String>)
         else if (choice == 76){
             AccoutSection.calCompound()
 
-            var accopen = AccoutSection()
+            val accopen = AccoutSection()
             accopen.openaccount()
 
         }

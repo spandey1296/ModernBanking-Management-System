@@ -8,7 +8,7 @@ class Interest_Calculator {
         fun SimpleInterest() {
 
             val scanner = Scanner(System.`in`)
-             val ch=scanner.nextInt();
+             val ch=scanner.nextInt()
             if (ch==1) {
 
 
@@ -25,7 +25,7 @@ class Interest_Calculator {
                 val total = SI + p
 
 
-                println("Simple interest for Your Amount ${p} and Rate ${r} and Year ${n} as your Required is: " + SI)
+                println("Simple interest for Your Amount $p and Rate $r and Year $n as your Required is: " + SI)
                 println("After Adding Your Interest Your Amout will be: $total")
             }
             else if (ch == 2){
