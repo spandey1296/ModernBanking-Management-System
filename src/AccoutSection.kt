@@ -31,7 +31,7 @@ class AccoutSection:BankInterface {
                 val time = scanner.nextDouble()
 
                 //Calculate Compound Interest
-                val compoundInterest = principalAmount.toDouble() * Math.pow((1 + rateOfInterest / 100.00), time.toDouble())
+                val compoundInterest = principalAmount * Math.pow((1 + rateOfInterest / 100.00), time.toDouble())
 
                 //Print Compound Interest
                 println("Compound Interest is as your input ${principalAmount}and ${rateOfInterest} and $time is: :$compoundInterest")
@@ -41,7 +41,7 @@ class AccoutSection:BankInterface {
             else if (ota==2){
                 println("Welcome to Opening to the Modern Bank Account Opening")
 
-                val op= scanner.nextInt()
+
 
                 println("Enter Your Name")
 

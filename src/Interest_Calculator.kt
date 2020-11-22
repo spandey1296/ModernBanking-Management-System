@@ -13,16 +13,16 @@ class Interest_Calculator {
 
 
                 print("Enter principal amount : ")
-                var p: Int = scanner.nextInt()
+                val p: Int = scanner.nextInt()
 
                 print("Enter rate of interest : ")
-                var r: Int = scanner.nextInt()
+                val r: Int = scanner.nextInt()
 
                 print("Enter number of years : ")
-                var n: Int = scanner.nextInt()
+                val n: Int = scanner.nextInt()
 
-                var SI: Int = (p * n * r) / 100
-                var total = SI + p
+                val SI: Int = (p * n * r) / 100
+                val total = SI + p
 
 
                 println("Simple interest for Your Amount ${p} and Rate ${r} and Year ${n} as your Required is: " + SI)
