@@ -6,7 +6,7 @@ class Interest_Calculator {
 
 
         fun SimpleInterest() {
-
+            Dateandtime.dateandtime()
             val scanner = Scanner(System.`in`)
              val ch=scanner.nextInt()
             if (ch==1) {

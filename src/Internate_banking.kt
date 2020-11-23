@@ -12,6 +12,7 @@ class Internate_banking {
     companion object {
 
         fun InternateBanking() {
+            Dateandtime.dateandtime()
 
             val current = LocalDateTime.now()
             val formatter = DateTimeFormatter.ofLocalizedDateTime(FormatStyle.MEDIUM)
