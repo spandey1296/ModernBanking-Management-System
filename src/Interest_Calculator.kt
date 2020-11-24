@@ -32,7 +32,7 @@ class Interest_Calculator {
 
                 println("The current SI of the Bank is 10%  according to RBI rules of Interest")
                 println(" As per RBI rules of the guidelines, Interest is not more than 0% of the corresponding banks")
-
+                println("Rates may varies from saving account and year of saving amount")
 
             }
 
