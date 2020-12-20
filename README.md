@@ -8,6 +8,9 @@ The Project name is Modern Bank Corporation. I have used the Kotlin features lik
 
  Now wealth Management system is now added in the project  as user can now check their wealth management system in this application.
 
+# Project Admin at SWOC:
+
+![Project maintainer](https://user-images.githubusercontent.com/50301680/102719761-fe044900-4315-11eb-9823-af4c38e3a33e.png)
 
 
 ![kotlin](https://user-images.githubusercontent.com/50301680/83848868-22a72380-a72c-11ea-9e12-b859d8697606.png)
