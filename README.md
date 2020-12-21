@@ -14,10 +14,10 @@
 ![google certification](https://user-images.githubusercontent.com/50301680/86451190-2c767380-bd38-11ea-937d-4842f81eea3e.png)
 
 
-[Kotlin Bootcamp for Programmers links](https://developer.android.com/courses/kotlin-bootcamp/overview utm_source=week1&utm_medium=email&utm_campaign=30DaysOfKotlin&utm_term=Basic%22)
+[!Kotlin Bootcamp for Programmers links](https://developer.android.com/courses/kotlin-bootcamp/overview utm_source=week1&utm_medium=email&utm_campaign=30DaysOfKotlin&utm_term=Basic%22)
 
 
-Kotlin Webinars: 
+# Kotlin Webinars: 
 1. https://eventsonair.withgoogle.com/events/kotlin?talk=kotlin101
 
 2. https://eventsonair.withgoogle.com/events/kotlin?talk=decodingkotlin
@@ -27,8 +27,6 @@ Kotlin Webinars:
 
 
 
-[Get Started with Kotlin on Android:]
-(https://developer.android.com/kotlin/get-started)
 
 
 
