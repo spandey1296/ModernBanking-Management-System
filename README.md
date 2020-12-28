@@ -41,12 +41,13 @@
 
 
 # Contact:
-<a href="https://www.facebook.com/ashwini.pandey.376" class="fa fa-facebook"></a>
-<a href="https://twitter.com/SHIVANT9" class="fa fa-twitter"></a>
-<a href="shivant47@gmail.com" class="fa fa-google"></a>
-<a href="https://linkedin.com/in/shivantkumarpandey" class="fa fa-linkedin"></a>
-<a href="https://www.youtube.com/channel/UCLQMdDxySQP23-DGgtpeJqQ/videos" class="fa fa-youtube"></a>
-<a href="https://www.instagram.com/shivant_pandey/" class="fa fa-instagram"></a>
+
+<a href="https://www.facebook.com/ashwini.pandey.376" class="fa fa-facebook">FACEBOOK</a>
+<a href="https://twitter.com/SHIVANT9" class="fa fa-twitter">TWITTER</a>
+<a href="shivant47@gmail.com" class="fa fa-google">GMAIL</a>
+<a href="https://linkedin.com/in/shivantkumarpandey" class="fa fa-linkedin">LINKEDIN</a>
+<a href="https://www.youtube.com/channel/UCLQMdDxySQP23-DGgtpeJqQ/videos" class="fa fa-youtube">YOUTUBE</a>
+<a href="https://www.instagram.com/shivant_pandey/" class="fa fa-instagram">INSTAGRAM</a>
 
 
 
