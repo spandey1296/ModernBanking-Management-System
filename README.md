@@ -1,5 +1,5 @@
 # ModernBanking-Management-System
-                      30 Days Of Kotlin with Google Developers Project Submission
+                            30 Days Of Kotlin with Google Developers Project Submission
 
 
 <p>This application project is basically based on the latest Bank technology, and I have considered almost features. The Project name is Modern Bank Corporation. I have used the Kotlin features like lambda expression, Interface, the Companion object, and SAM interface.Now wealth Management system is now added in the project  as user can now check their wealth management system in this application.</p>
@@ -14,7 +14,7 @@
 ![google certification](https://user-images.githubusercontent.com/50301680/86451190-2c767380-bd38-11ea-937d-4842f81eea3e.png)
 
 
-[!Kotlin Bootcamp for Programmers links](https://developer.android.com/courses/kotlin-bootcamp/overview utm_source=week1&utm_medium=email&utm_campaign=30DaysOfKotlin&utm_term=Basic%22)
+<a href="https://developer.android.com/courses/kotlin-bootcamp/overview utm_source=week1&utm_medium=email&utm_campaign=30DaysOfKotlin&utm_term=Basic%22">Kotlin Bootcamp For Beginners</a>
 
 
 # Kotlin Webinars: 
@@ -40,13 +40,13 @@
 
 
 
-
-<ul>
-  <li>For any queries/doubts: shivant47@gmail.com</li>
- <li>LinkedIn: https://www.linkedin.com/in/shivant-kumar-pandey-6469a1164/ </li>
-<li>Regards</li>
-<li>SHIVANT KUMAR PANDEY</li>
-</ul>
+# Contact:
+<a href="https://www.facebook.com/ashwini.pandey.376" class="fa fa-facebook"></a>
+<a href="https://twitter.com/SHIVANT9" class="fa fa-twitter"></a>
+<a href="shivant47@gmail.com" class="fa fa-google"></a>
+<a href="https://linkedin.com/in/shivantkumarpandey" class="fa fa-linkedin"></a>
+<a href="https://www.youtube.com/channel/UCLQMdDxySQP23-DGgtpeJqQ/videos" class="fa fa-youtube"></a>
+<a href="https://www.instagram.com/shivant_pandey/" class="fa fa-instagram"></a>
 
 
 
