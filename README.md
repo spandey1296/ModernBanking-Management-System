@@ -1,8 +1,8 @@
 # ModernBanking-Management-System
-                            30 Days Of Kotlin with Google Developers Project Submission
+                            🆕30 Days Of Kotlin with Google Developers Project Submission🔚
 
 
-# First Contribution
+# 🥇 First Contribution
 <ul>
   <li>Are you new to open source project?</li>
   <li>Do you want to make open source contribution?</li>
