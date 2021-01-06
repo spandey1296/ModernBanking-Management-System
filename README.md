@@ -2,7 +2,52 @@
                             30 Days Of Kotlin with Google Developers Project Submission
 
 
-<p>This application project is basically based on the latest Bank technology, and I have considered almost features. The Project name is Modern Bank Corporation. I have used the Kotlin features like lambda expression, Interface, the Companion object, and SAM interface.Now wealth Management system is now added in the project  as user can now check their wealth management system in this application.</p>
+# First Contribution
+<ul>
+  <li>Are you new to open source project?</li>
+  <li>Do you want to make open source contribution?</li>
+  <li>Can't find a beginner's project to contribute</li>
+  </ul>
+<p>Don't worry you are at perfect place. This is simple project you just have to add yourself as contributor by adding your name in members.json file. Still can't get it don't worry below is step by step guide to help you make your first contribution.</p>
+
+# How to contribute
+<p>Here you will learn how you can contribute to this project and can make your first contribution</p>
+
+
+# About the Project
+<p>Modern BankingManagement System provides a new financial services to the client,to help them understand how they can further expand their business. we’ve proposed the idea of introducing an online banking solution, so we’ll need to provide them with enough information for them to make an informed decisions.
+ModernBanking Management System provides a comprehensive and integrated range of financial products and services.</p>
+<h3<Their key product and service offerings are:</h3>
+<ul>
+  <li>Retail Banking</li>
+    <li>Business Banking</li>
+    <li>Private Banking</li>
+  <li>Wealth Management</li>
+  </ul>
+  
+## Features:
+<ul>
+  <li>Check account status</li>
+   <li>
+check atm transaction</li>
+   <li>
+Loan status</li>
+   <li>Interest Calculator</li> 
+  <li>Wealth calculator</li>
+   <li>
+Internate Banking Facility</li>
+   
+  </ul>
+
+
+
+
+
+
+
+
+
+
 
 # Project Admin at SWOC:
 
@@ -49,7 +94,9 @@
 <a href="https://www.youtube.com/channel/UCLQMdDxySQP23-DGgtpeJqQ/videos" class="fa fa-youtube">YOUTUBE</a>
 <a href="https://www.instagram.com/shivant_pandey/" class="fa fa-instagram">INSTAGRAM</a>
 
-# code of conduct
+# 💼  Code of Conduct
+
+<p>We want to facilitate a healthy and constructive community behavior by adopting and enforcing our code of conduct.</p>
 
 
 
