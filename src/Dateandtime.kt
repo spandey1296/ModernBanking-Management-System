@@ -10,7 +10,7 @@ class Dateandtime {
           val current = LocalDateTime.now()
           val formatter = DateTimeFormatter.ofLocalizedDateTime(FormatStyle.MEDIUM)
           val formatted = current.format(formatter)
-          println("WELCOME TO MODERN BANK CORPORATION")                                                      Current Date is: ${formatted}")
+          println("WELCOME TO MODERN BANK CORPORATION                                                Current Date is: ${formatted}")
 
       }
   }
