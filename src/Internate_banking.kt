@@ -19,8 +19,8 @@ class Internate_banking {
             val formatted = current.format(formatter)
             println("WELCOME TO INTERNATE BANKING FACILITY                                                     Current Date is: ${formatted}")
             println("Please select an option from the following menu:")
-            println("Press\t • 1--> Know Bank IFCS code")
-            println("Press\t • 2--> Register for Internate Banking")
+            println("Press\t • 1--> Know Bank's IFSC code")
+            println("Press\t • 2--> Register for Internet Banking")
             println("Press\t • 3-->User Verification")
             println("Press\t • 0-->Exit")
             val choice = Integer.valueOf(readLine())
@@ -68,7 +68,7 @@ class Internate_banking {
         }
 
         private fun main() {
-            println("Thankyou For Visiting ModernBanking")
+            println("Thank You For Visiting ModernBanking")
             var bankAccounts = readAccounts()
             AccountSection.printBanner()
         }
