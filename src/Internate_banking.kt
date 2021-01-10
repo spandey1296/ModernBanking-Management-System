@@ -29,7 +29,7 @@ class Internate_banking {
             if (choice == 1) {
                 val branch = listOf("Auranagabd,Bihar", "Patna,Bihar", "Delhi", "Mumbai", "Kolkata", "Pune", "Kerala")
                 val ifcs = listOf("82101", "43534543", "34534543", "655445", "32543543", "789789", "82454")
-                println(branch.zip(ifcs) { branch, ifcs -> "The IFCS code --> ${ifcs.capitalize()} : $branch;" })
+                println(branch.zip(ifcs) { branch, ifcs -> "The IFSC code --> ${ifcs.capitalize()} : $branch;" })
             }
             else {
                 println("Ohh! Incorrect Entry")
