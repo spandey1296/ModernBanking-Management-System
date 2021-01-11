@@ -39,7 +39,7 @@ class AccoutSection:BankInterface {
 
 
             else if (ota==2){
-                println("Welcome to Opening to the Modern Bank Account Opening")
+                println("Welcome to Modern Bank Account Opening Section")
 
 
 

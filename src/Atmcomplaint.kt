@@ -17,7 +17,7 @@ class Atmcomplaint {
 
 
 
-            println("Compaint Registered Successfully!!")
+            println("Complaint Registered Successfully!!")
 
 
 
